@@ -7,7 +7,7 @@
 * [परिचय](0x03-introduction.md)
 * [रिलीज़ नोट्स](0x04-release-notes.md)
 * [एपीआई सुरक्षा जोखिम](0x10-api-security-risks.md)
-* [OWASP शीर्ष 10 API सुरक्षा जोखिम - 2019](0x11-t10.md)
+* [OWASP शीर्ष 10 ए.पी.आई सुरक्षा जोखिम - 2019](0x11-t10.md)
 * [API1:2019 ब्रोकन ऑब्जेक्ट लेवल ऑथराइजेशन](0xa1-broken-object-level-authorization.md)
 * [API2: 2019 टूटा हुआ उपयोगकर्ता प्रमाणीकरण](0xa2-broken-user-authentication.md)
 * [API3:2019 अत्यधिक डेटा एक्सपोज़र](0xa3-excessive-data-exposure.md)
