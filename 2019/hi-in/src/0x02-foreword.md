@@ -37,3 +37,10 @@
 हम उन सभी योगदानकर्ताओं को धन्यवाद देना चाहते हैं जिन्होंने अपने साथ इस परियोजना को संभव बनाया
 प्रयास और योगदान। वे सभी [पावती
 खंड][4]। शुक्रिया!
+
+
+
+[1]: https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+[2]: ./0x10-api-security-risks.md
+[3]: ./0xd0-about-data.md
+[4]: ./0xd1-acknowledgments.md
